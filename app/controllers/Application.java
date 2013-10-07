@@ -7,6 +7,7 @@ import views.html.Page1;
 import views.html.Stephanie;
 import views.html.Jeff;
 import views.html.Kanoa;
+import views.html.jake;
 
 /**
  * Implements the controllers for this application.
@@ -54,6 +55,14 @@ public class Application extends Controller {
    */
   public static Result kanoa() {
     return ok(Kanoa.render("Kanoa Igarashi's page"));
+    
+  }
+  /**
+   * Returns the jake page.
+   * @return the jake page.
+   */
+  public static Result jake() {
+    return ok(jake.render("Jake Marshall's page"));
     
   }
   

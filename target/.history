@@ -37,3 +37,8 @@ exit
 eclipse
 run
 exit
+eclipse
+run
+clean
+compile
+run

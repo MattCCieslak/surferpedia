@@ -38,6 +38,13 @@ body {
   height: 500px;
 }
 
+.carousel-4 {
+  background:url('/assets/images/jake.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+}
+
 .stephanie-img {
   background: url('/assets/images/stephanie-gilmore.jpg');
   background-size: cover;
@@ -54,6 +61,13 @@ body {
 
 .kanoa-img {
   background: url('/assets/images/kanoa-igarashi.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+}
+
+.jake-img {
+  background: url('/assets/images/jake.jpg');
   background-size: cover;
   background-position: center;
   height: 500px;

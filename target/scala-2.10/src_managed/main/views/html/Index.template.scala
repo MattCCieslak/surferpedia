@@ -34,6 +34,7 @@ Seq[Any](format.raw/*1.19*/("""
         <li data-target="#main-carousel" data-slide-to="0" class="active"></li>
         <li data-target="#main-carousel" data-slide-to="1"></li>
         <li data-target="#main-carousel" data-slide-to="2"></li>
+        <li data-target="#main-carousel" data-slide-to="3"></li>
      </ol>
      
      <div class="carousel-inner">
@@ -51,13 +52,18 @@ Seq[Any](format.raw/*1.19*/("""
             <div class="carousel-3"></div>
             <div class="carousel-caption"><h3>Kanoa Igarashi</h3></div>
         </div>
+        
+        <div class="item">
+            <div class="carousel-4"></div>
+            <div class="carousel-caption"><h3>Jake Marshall</h3></div>
+        </div>
      </div>
      
      
      <a class="left carousel-control" href="#main-carousel" data-slide="prev"><span class="icon-prev"></span></a>
      <a class="right carousel-control" href="#main-carousel" data-slide="next"><span class="icon-next"></span></a>
    </div>
-""")))})),format.raw/*32.2*/("""
+""")))})),format.raw/*38.2*/("""
 """))}
     }
     
@@ -70,11 +76,11 @@ Seq[Any](format.raw/*1.19*/("""
 }
                 /*
                     -- GENERATED --
-                    DATE: Sun Oct 06 18:29:59 HST 2013
-                    SOURCE: /home/matt/workspace/surferpedia/app/views/Index.scala.html
-                    HASH: 12fed1dedfe474d4e8fbf62058da743b16299d3c
-                    MATRIX: 774->1|885->18|922->21|942->33|981->35|2123->1146
-                    LINES: 26->1|29->1|31->3|31->3|31->3|60->32
+                    DATE: Sun Oct 06 20:16:01 HST 2013
+                    SOURCE: C:/Users/Diana/Documents/GitHub/surferpedia/app/views/Index.scala.html
+                    HASH: 0720499f88c37e3585243f3becd508bdfdc06dd0
+                    MATRIX: 774->1|885->18|924->23|944->35|983->37|2390->1413
+                    LINES: 26->1|29->1|31->3|31->3|31->3|66->38
                     -- GENERATED --
                 */
             

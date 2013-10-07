@@ -77,7 +77,7 @@ Seq[Any](format.raw/*1.31*/("""
             <li class="dropdown">
                 <a class="dropdown-toggle" data-toggle="dropdown" href="#">Groms<b class="caret"></b></a>
                 <ul class="dropdown-menu" role="menu">
-                    <li><a href=""""),_display_(Seq[Any](/*52.35*/routes/*52.41*/.Application.kanoa())),format.raw/*52.61*/("""">Kanoa Igarashi</a></li>
+                    <li><a href=""""),_display_(Seq[Any](/*52.35*/routes/*52.41*/.Application.kanoa())),format.raw/*52.61*/("""">Kanoa Igarashi</a><a href=""""),_display_(Seq[Any](/*52.91*/routes/*52.97*/.Application.jake())),format.raw/*52.116*/("""">Jake Marshall</a></li>
                 </ul>
             </li>
         </ul>
@@ -102,11 +102,11 @@ Seq[Any](format.raw/*1.31*/("""
 }
                 /*
                     -- GENERATED --
-                    DATE: Sun Oct 06 18:29:58 HST 2013
-                    SOURCE: /home/matt/workspace/surferpedia/app/views/Main.scala.html
-                    HASH: af139208fcd64a809a414e7a4c756a53804aced2
-                    MATRIX: 778->1|901->30|1327->420|1342->426|1398->460|1495->521|1510->527|1564->559|2837->1796|2852->1802|2893->1821|3224->2116|3239->2122|3285->2146|3620->2445|3635->2451|3677->2471|3832->2591|3861->2598
-                    LINES: 26->1|29->1|40->12|40->12|40->12|41->13|41->13|41->13|66->38|66->38|66->38|73->45|73->45|73->45|80->52|80->52|80->52|87->59|87->59
+                    DATE: Sun Oct 06 20:16:01 HST 2013
+                    SOURCE: C:/Users/Diana/Documents/GitHub/surferpedia/app/views/Main.scala.html
+                    HASH: 18123322dc13d377102a4fb5a0b54ce51019c4b5
+                    MATRIX: 778->1|901->30|1338->431|1353->437|1409->471|1507->533|1522->539|1576->571|2874->1833|2889->1839|2930->1858|3268->2160|3283->2166|3329->2190|3671->2496|3686->2502|3728->2522|3794->2552|3809->2558|3851->2577|4012->2703|4041->2710
+                    LINES: 26->1|29->1|40->12|40->12|40->12|41->13|41->13|41->13|66->38|66->38|66->38|73->45|73->45|73->45|80->52|80->52|80->52|80->52|80->52|80->52|87->59|87->59
                     -- GENERATED --
                 */
             
