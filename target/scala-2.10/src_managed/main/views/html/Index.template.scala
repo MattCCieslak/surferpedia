@@ -57,13 +57,18 @@ Seq[Any](format.raw/*1.19*/("""
             <div class="carousel-4"></div>
             <div class="carousel-caption"><h3>Jake Marshall</h3></div>
         </div>
+        
+           <div class="item">
+            <div class="carousel-5"></div>
+           <div class="carousel-caption"><h3>Laird Hamilton</h3></div>
+        </div>
      </div>
      
      
      <a class="left carousel-control" href="#main-carousel" data-slide="prev"><span class="icon-prev"></span></a>
      <a class="right carousel-control" href="#main-carousel" data-slide="next"><span class="icon-next"></span></a>
    </div>
-""")))})),format.raw/*38.2*/("""
+""")))})),format.raw/*43.2*/("""
 """))}
     }
     
@@ -76,11 +81,11 @@ Seq[Any](format.raw/*1.19*/("""
 }
                 /*
                     -- GENERATED --
-                    DATE: Sun Oct 06 20:16:01 HST 2013
-                    SOURCE: C:/Users/Diana/Documents/GitHub/surferpedia/app/views/Index.scala.html
-                    HASH: 0720499f88c37e3585243f3becd508bdfdc06dd0
-                    MATRIX: 774->1|885->18|924->23|944->35|983->37|2390->1413
-                    LINES: 26->1|29->1|31->3|31->3|31->3|66->38
+                    DATE: Mon Oct 07 11:03:16 HST 2013
+                    SOURCE: /home/taylorak/Programming/Play/mattcieslak/surferpedia/app/views/Index.scala.html
+                    HASH: e5d5866af4def0cd4fddbd541a19265e6d23bbc9
+                    MATRIX: 774->1|885->18|922->21|942->33|981->35|2521->1544
+                    LINES: 26->1|29->1|31->3|31->3|31->3|71->43
                     -- GENERATED --
                 */
             

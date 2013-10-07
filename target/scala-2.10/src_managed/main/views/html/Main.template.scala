@@ -64,27 +64,31 @@ Seq[Any](format.raw/*1.31*/("""
                 <a class="dropdown-toggle" data-toggle="dropdown" href="#">Males<b class="caret"></b></a>
                 <ul class="dropdown-menu" role="menu">
                     <li><a href=""""),_display_(Seq[Any](/*38.35*/routes/*38.41*/.Application.jeff())),format.raw/*38.60*/("""">Jeff Hakman</a></li>
+                    <li><a href=""""),_display_(Seq[Any](/*39.35*/routes/*39.41*/.Application.laird())),format.raw/*39.61*/("""">Laird Hamilton</a></li>
+                    
                 </ul>
             </li>
 
             <li class="dropdown">
                 <a class="dropdown-toggle" data-toggle="dropdown" href="#">Females<b class="caret"></b></a>
                 <ul class="dropdown-menu" role="menu">
-                    <li><a href=""""),_display_(Seq[Any](/*45.35*/routes/*45.41*/.Application.stephanie())),format.raw/*45.65*/("""">Stephanie Gilmore</a></li>
+                    <li><a href=""""),_display_(Seq[Any](/*47.35*/routes/*47.41*/.Application.stephanie())),format.raw/*47.65*/("""">Stephanie Gilmore</a></li>
                 </ul>
             </li>
 
             <li class="dropdown">
                 <a class="dropdown-toggle" data-toggle="dropdown" href="#">Groms<b class="caret"></b></a>
                 <ul class="dropdown-menu" role="menu">
-                    <li><a href=""""),_display_(Seq[Any](/*52.35*/routes/*52.41*/.Application.kanoa())),format.raw/*52.61*/("""">Kanoa Igarashi</a><a href=""""),_display_(Seq[Any](/*52.91*/routes/*52.97*/.Application.jake())),format.raw/*52.116*/("""">Jake Marshall</a></li>
+                    <li><a href=""""),_display_(Seq[Any](/*54.35*/routes/*54.41*/.Application.kanoa())),format.raw/*54.61*/("""">Kanoa Igarashi</a><a href=""""),_display_(Seq[Any](/*54.91*/routes/*54.97*/.Application.jake())),format.raw/*54.116*/("""">Jake Marshall</a></li>
                 </ul>
             </li>
+            
+            
         </ul>
       </div>
     </div>
   </div>
-      """),_display_(Seq[Any](/*59.8*/content)),format.raw/*59.15*/("""
+      """),_display_(Seq[Any](/*63.8*/content)),format.raw/*63.15*/("""
       <!-- Load Bootstrap JavaScript components. HTMLUnit (used in testing) requires JQuery 1.8.3 or below). -->
       <script src="http://code.jquery.com/jquery-1.8.3.min.js"></script>
       <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
@@ -102,11 +106,11 @@ Seq[Any](format.raw/*1.31*/("""
 }
                 /*
                     -- GENERATED --
-                    DATE: Sun Oct 06 20:16:01 HST 2013
-                    SOURCE: C:/Users/Diana/Documents/GitHub/surferpedia/app/views/Main.scala.html
-                    HASH: 18123322dc13d377102a4fb5a0b54ce51019c4b5
-                    MATRIX: 778->1|901->30|1338->431|1353->437|1409->471|1507->533|1522->539|1576->571|2874->1833|2889->1839|2930->1858|3268->2160|3283->2166|3329->2190|3671->2496|3686->2502|3728->2522|3794->2552|3809->2558|3851->2577|4012->2703|4041->2710
-                    LINES: 26->1|29->1|40->12|40->12|40->12|41->13|41->13|41->13|66->38|66->38|66->38|73->45|73->45|73->45|80->52|80->52|80->52|80->52|80->52|80->52|87->59|87->59
+                    DATE: Mon Oct 07 11:01:21 HST 2013
+                    SOURCE: /home/taylorak/Programming/Play/mattcieslak/surferpedia/app/views/Main.scala.html
+                    HASH: 615b172451b0686ccea0bf10b8f10c398337e8f9
+                    MATRIX: 778->1|901->30|1327->420|1342->426|1398->460|1495->521|1510->527|1564->559|2837->1796|2852->1802|2893->1821|2986->1878|3001->1884|3043->1904|3398->2223|3413->2229|3459->2253|3794->2552|3809->2558|3851->2578|3917->2608|3932->2614|3974->2633|4154->2778|4183->2785
+                    LINES: 26->1|29->1|40->12|40->12|40->12|41->13|41->13|41->13|66->38|66->38|66->38|67->39|67->39|67->39|75->47|75->47|75->47|82->54|82->54|82->54|82->54|82->54|82->54|91->63|91->63
                     -- GENERATED --
                 */
             

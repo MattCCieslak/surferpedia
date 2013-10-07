@@ -58,10 +58,10 @@ In 1976 Jeff founded Quiksilver America with Bob McKnight and in 1984 founded Qu
 }
                 /*
                     -- GENERATED --
-                    DATE: Sun Oct 06 20:16:01 HST 2013
-                    SOURCE: C:/Users/Diana/Documents/GitHub/surferpedia/app/views/Jeff.scala.html
-                    HASH: 7ab52ca7b302d0b703f52ee2fcbb062810c188f7
-                    MATRIX: 773->1|884->18|923->23|943->35|982->37|2446->1470
+                    DATE: Mon Oct 07 10:56:41 HST 2013
+                    SOURCE: /home/taylorak/Programming/Play/mattcieslak/surferpedia/app/views/Jeff.scala.html
+                    HASH: 1c3304677d919118d2e72b7b1a84218af6e6319b
+                    MATRIX: 773->1|884->18|921->21|941->33|980->35|2427->1451
                     LINES: 26->1|29->1|31->3|31->3|31->3|48->20
                     -- GENERATED --
                 */

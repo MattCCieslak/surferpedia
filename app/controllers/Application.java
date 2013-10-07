@@ -8,6 +8,9 @@ import views.html.Stephanie;
 import views.html.Jeff;
 import views.html.Kanoa;
 import views.html.jake;
+import views.html.laird;
+
+
 
 /**
  * Implements the controllers for this application.
@@ -63,6 +66,15 @@ public class Application extends Controller {
    */
   public static Result jake() {
     return ok(jake.render("Jake Marshall's page"));
+    
+  }
+  
+  /**
+   * Returns the Laird page.
+   * @return the Laird page.
+   */
+  public static Result laird() {
+    return ok(laird.render("Laird Hamilton"));
     
   }
   

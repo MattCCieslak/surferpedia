@@ -42,3 +42,5 @@ run
 clean
 compile
 run
+eclipse
+~run
