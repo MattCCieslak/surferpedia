@@ -9,7 +9,8 @@ GET     /stephanie                  controllers.Application.stephanie()
 GET     /jeff                       controllers.Application.jeff()
 GET     /kanoa                      controllers.Application.kanoa()
 GET     /jake                       controllers.Application.jake()
-GET     /laird                       controllers.Application.laird()
+GET     /laird                      controllers.Application.laird()
+GET     /carissa                    controllers.Application.carissa()
 
 
 # Map static resources from the /public folder to the /assets URL path

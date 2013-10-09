@@ -35,6 +35,8 @@ Seq[Any](format.raw/*1.19*/("""
         <li data-target="#main-carousel" data-slide-to="1"></li>
         <li data-target="#main-carousel" data-slide-to="2"></li>
         <li data-target="#main-carousel" data-slide-to="3"></li>
+        <li data-target="#main-carousel" data-slide-to="4"></li>
+        <li data-target="#main-carousel" data-slide-to="5"></li>
      </ol>
      
      <div class="carousel-inner">
@@ -62,13 +64,19 @@ Seq[Any](format.raw/*1.19*/("""
             <div class="carousel-5"></div>
            <div class="carousel-caption"><h3>Laird Hamilton</h3></div>
         </div>
+        
+         <div class="item">
+            <div class="carousel-6"></div>
+           <div class="carousel-caption"><h3>Carissa Moore</h3></div>
+        </div>
+        
      </div>
      
      
      <a class="left carousel-control" href="#main-carousel" data-slide="prev"><span class="icon-prev"></span></a>
      <a class="right carousel-control" href="#main-carousel" data-slide="next"><span class="icon-next"></span></a>
    </div>
-""")))})),format.raw/*43.2*/("""
+""")))})),format.raw/*51.2*/("""
 """))}
     }
     
@@ -81,11 +89,11 @@ Seq[Any](format.raw/*1.19*/("""
 }
                 /*
                     -- GENERATED --
-                    DATE: Mon Oct 07 11:03:16 HST 2013
-                    SOURCE: /home/taylorak/Programming/Play/mattcieslak/surferpedia/app/views/Index.scala.html
-                    HASH: e5d5866af4def0cd4fddbd541a19265e6d23bbc9
-                    MATRIX: 774->1|885->18|922->21|942->33|981->35|2521->1544
-                    LINES: 26->1|29->1|31->3|31->3|31->3|71->43
+                    DATE: Wed Oct 09 11:01:39 HST 2013
+                    SOURCE: C:/Users/Diana/Desktop/surferpedia/app/views/Index.scala.html
+                    HASH: 5d6d0a6dc958944672b03837c00e8851be25c3bf
+                    MATRIX: 774->1|885->18|924->23|944->35|983->37|2875->1898
+                    LINES: 26->1|29->1|31->3|31->3|31->3|79->51
                     -- GENERATED --
                 */
             

@@ -40,7 +40,7 @@ Seq[Any](format.raw/*1.19*/("""
 
     <div class="col-md-8">
       <div class="well">
-      <h3>Laird Hamilton</h3>
+        <h3>Laird Hamilton</h3>
         <p>Laird was born Laird John Zerfas in San Francisco on March 2, 1964, in an experimental salt-water sphere
           at UCSF Medical Center designed to ease the mother's labor. His Greek birth father, L. G. Zerfas, left the
           family before his first birthday. While he was an infant, Laird and his mother, Joann, moved to Hawaii. While
@@ -76,10 +76,10 @@ Seq[Any](format.raw/*1.19*/("""
 }
                 /*
                     -- GENERATED --
-                    DATE: Mon Oct 07 11:04:19 HST 2013
-                    SOURCE: /home/taylorak/Programming/Play/mattcieslak/surferpedia/app/views/laird.scala.html
-                    HASH: cd524b3145f35a530e3a4234c681b7ad3e31aa7f
-                    MATRIX: 774->1|885->18|923->22|953->44|992->46|3162->2185
+                    DATE: Wed Oct 09 10:52:49 HST 2013
+                    SOURCE: C:/Users/Diana/Desktop/surferpedia/app/views/laird.scala.html
+                    HASH: ca88c47dff5ec27590cd10932c647b8c87c3bb0a
+                    MATRIX: 774->1|885->18|925->24|955->46|994->48|3201->2224
                     LINES: 26->1|29->1|31->3|31->3|31->3|66->38
                     -- GENERATED --
                 */

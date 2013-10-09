@@ -1,3 +1,3 @@
 [0m[[0mdebug[0m] [0mCopy resource mappings: [0m
-[0m[[0mdebug[0m] [0m	(/home/taylorak/Programming/Play/mattcieslak/surferpedia/conf/routes,/home/taylorak/Programming/Play/mattcieslak/surferpedia/target/scala-2.10/classes/routes)[0m
-[0m[[0mdebug[0m] [0m	(/home/taylorak/Programming/Play/mattcieslak/surferpedia/conf/application.conf,/home/taylorak/Programming/Play/mattcieslak/surferpedia/target/scala-2.10/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Diana\Desktop\surferpedia\conf\application.conf,C:\Users\Diana\Desktop\surferpedia\target\scala-2.10\classes\application.conf)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Diana\Desktop\surferpedia\conf\routes,C:\Users\Diana\Desktop\surferpedia\target\scala-2.10\classes\routes)[0m

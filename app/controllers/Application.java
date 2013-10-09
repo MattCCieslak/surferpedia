@@ -9,6 +9,7 @@ import views.html.Jeff;
 import views.html.Kanoa;
 import views.html.jake;
 import views.html.laird;
+import views.html.carissa;
 
 
 
@@ -75,6 +76,14 @@ public class Application extends Controller {
    */
   public static Result laird() {
     return ok(laird.render("Laird Hamilton"));
+    
+  }
+  /**
+   * Returns the carissa page.
+   * @return the Carissa page.
+   */
+  public static Result carissa() {
+    return ok(carissa.render("Carissa Moore"));
     
   }
   

@@ -52,6 +52,13 @@ body {
   height: 500px;
 }
 
+.carousel-6 {
+  background:url('../images/carissa.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+}
+
 .stephanie-img {
   background: url('/assets/images/stephanie-gilmore.jpg');
   background-size: cover;
@@ -82,6 +89,12 @@ body {
 
 .laird-img {
   background: url('../images/LairdHamilton.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+}
+.carissa-img {
+  background: url('../images/carissa.jpg');
   background-size: cover;
   background-position: center;
   height: 500px;
