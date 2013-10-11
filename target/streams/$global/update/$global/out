@@ -7,7 +7,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies for surferpedia#surferpedia_2.10;1.0-SNAPSHOT [compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies surferpedia#surferpedia_2.10;1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.10.2 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@510d50b1[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@169994a9[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.2[0m
 [0m[[0mdebug[0m] [0m	local: revision in cache: org.scala-lang#scala-library;2.10.2[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.10.2 in sbt-chain[0m
@@ -5100,7 +5100,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.10.2!scala-compiler.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#jline;2.10.2!jline.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 10788ms :: artifacts dl 333ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 3007ms :: artifacts dl 233ms[0m
 [0m[[0mdebug[0m] [0m	report for surferpedia#surferpedia_2.10;1.0-SNAPSHOT compile produced in C:\Users\Diana\Desktop\surferpedia\target\resolution-cache\reports\surferpedia-surferpedia_2.10-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for surferpedia#surferpedia_2.10;1.0-SNAPSHOT runtime produced in C:\Users\Diana\Desktop\surferpedia\target\resolution-cache\reports\surferpedia-surferpedia_2.10-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for surferpedia#surferpedia_2.10;1.0-SNAPSHOT test produced in C:\Users\Diana\Desktop\surferpedia\target\resolution-cache\reports\surferpedia-surferpedia_2.10-test.xml[0m
@@ -5114,5 +5114,5 @@
 [0m[[0mdebug[0m] [0m	report for surferpedia#surferpedia_2.10;1.0-SNAPSHOT docs produced in C:\Users\Diana\Desktop\surferpedia\target\resolution-cache\reports\surferpedia-surferpedia_2.10-docs.xml[0m
 [0m[[0mdebug[0m] [0m	report for surferpedia#surferpedia_2.10;1.0-SNAPSHOT pom produced in C:\Users\Diana\Desktop\surferpedia\target\resolution-cache\reports\surferpedia-surferpedia_2.10-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for surferpedia#surferpedia_2.10;1.0-SNAPSHOT scala-tool produced in C:\Users\Diana\Desktop\surferpedia\target\resolution-cache\reports\surferpedia-surferpedia_2.10-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (10788ms resolve - 333ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (3007ms resolve - 233ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m

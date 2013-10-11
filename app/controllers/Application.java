@@ -7,9 +7,9 @@ import views.html.Page1;
 import views.html.Stephanie;
 import views.html.Jeff;
 import views.html.Kanoa;
-import views.html.jake;
+import views.html.Jake;
 import views.html.laird;
-import views.html.carissa;
+import views.html.Carissa;
 
 
 
@@ -66,7 +66,7 @@ public class Application extends Controller {
    * @return the jake page.
    */
   public static Result jake() {
-    return ok(jake.render("Jake Marshall's page"));
+    return ok(Jake.render("Jake Marshall's page"));
     
   }
   
@@ -83,7 +83,7 @@ public class Application extends Controller {
    * @return the Carissa page.
    */
   public static Result carissa() {
-    return ok(carissa.render("Carissa Moore"));
+    return ok(Carissa.render("Carissa Moore"));
     
   }
   

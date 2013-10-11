@@ -20,7 +20,7 @@ import play.api.data.Field
 import play.mvc.Http.Context.Implicit._
 import views.html._
 /**/
-object carissa extends BaseScalaTemplate[play.api.templates.HtmlFormat.Appendable,Format[play.api.templates.HtmlFormat.Appendable]](play.api.templates.HtmlFormat) with play.api.templates.Template1[String,play.api.templates.HtmlFormat.Appendable] {
+object Carissa extends BaseScalaTemplate[play.api.templates.HtmlFormat.Appendable,Format[play.api.templates.HtmlFormat.Appendable]](play.api.templates.HtmlFormat) with play.api.templates.Template1[String,play.api.templates.HtmlFormat.Appendable] {
 
     /**/
     def apply/*1.2*/(message: String):play.api.templates.HtmlFormat.Appendable = {
@@ -28,7 +28,7 @@ object carissa extends BaseScalaTemplate[play.api.templates.HtmlFormat.Appendabl
 
 Seq[Any](format.raw/*1.19*/("""
 
-"""),_display_(Seq[Any](/*3.2*/Main("carissa")/*3.17*/ {_display_(Seq[Any](format.raw/*3.19*/("""
+"""),_display_(Seq[Any](/*3.2*/Main("Carissa")/*3.17*/ {_display_(Seq[Any](format.raw/*3.19*/("""
    <div class="container">
    <div class="row">
    <div class="col-md-4 pagecontent">
@@ -64,9 +64,9 @@ Refer to ASP Wildcard Entries section for further information relating Moores in
 }
                 /*
                     -- GENERATED --
-                    DATE: Wed Oct 09 11:05:11 HST 2013
-                    SOURCE: C:/Users/Diana/Desktop/surferpedia/app/views/carissa.scala.html
-                    HASH: c8bc0bf0cf942a35392bffdc1040321f432d91de
+                    DATE: Thu Oct 10 19:43:04 HST 2013
+                    SOURCE: C:/Users/Diana/Desktop/surferpedia/app/views/Carissa.scala.html
+                    HASH: 1411500940edf23b4d127a05dc0ee5d1efad93dd
                     MATRIX: 776->1|887->18|926->23|949->38|988->40|2392->1413
                     LINES: 26->1|29->1|31->3|31->3|31->3|54->26
                     -- GENERATED --

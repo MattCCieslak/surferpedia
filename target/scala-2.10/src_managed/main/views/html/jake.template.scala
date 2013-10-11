@@ -20,7 +20,7 @@ import play.api.data.Field
 import play.mvc.Http.Context.Implicit._
 import views.html._
 /**/
-object jake extends BaseScalaTemplate[play.api.templates.HtmlFormat.Appendable,Format[play.api.templates.HtmlFormat.Appendable]](play.api.templates.HtmlFormat) with play.api.templates.Template1[String,play.api.templates.HtmlFormat.Appendable] {
+object Jake extends BaseScalaTemplate[play.api.templates.HtmlFormat.Appendable,Format[play.api.templates.HtmlFormat.Appendable]](play.api.templates.HtmlFormat) with play.api.templates.Template1[String,play.api.templates.HtmlFormat.Appendable] {
 
     /**/
     def apply/*1.2*/(message: String):play.api.templates.HtmlFormat.Appendable = {
@@ -28,7 +28,7 @@ object jake extends BaseScalaTemplate[play.api.templates.HtmlFormat.Appendable,F
 
 Seq[Any](format.raw/*1.19*/("""
 
-"""),_display_(Seq[Any](/*3.2*/Main("jake")/*3.14*/ {_display_(Seq[Any](format.raw/*3.16*/("""
+"""),_display_(Seq[Any](/*3.2*/Main("Jake")/*3.14*/ {_display_(Seq[Any](format.raw/*3.16*/("""
    <div class="container">
    <div class="row">
    <div class="col-md-4 pagecontent">
@@ -56,9 +56,9 @@ Seq[Any](format.raw/*1.19*/("""
 }
                 /*
                     -- GENERATED --
-                    DATE: Wed Oct 09 10:52:49 HST 2013
-                    SOURCE: C:/Users/Diana/Desktop/surferpedia/app/views/jake.scala.html
-                    HASH: 81ca2bae2c67fb82da996c0ff6eb562053d81b86
+                    DATE: Thu Oct 10 19:44:33 HST 2013
+                    SOURCE: C:/Users/Diana/Desktop/surferpedia/app/views/Jake.scala.html
+                    HASH: 570358fc286303b99f6c04f54b608ca9db5a4681
                     MATRIX: 773->1|884->18|923->23|943->35|982->37|2549->1573
                     LINES: 26->1|29->1|31->3|31->3|31->3|46->18
                     -- GENERATED --
